@@ -37,8 +37,7 @@ A Python-based interactive Weather Alert System built with Streamlit. It fetches
    ```
    The application will automatically open in your default web browser at `http://localhost:8501`.
 
-## 📸 Screenshots
-*(Add screenshots of the Live Weather tab, Alert banners, and the Manual Check interactive gauges here to showcase the beautiful UI!)*
+
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page or submit a pull request if you want to expand the alerting system, refine the UI, or add new data sources.
